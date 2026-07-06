@@ -1,5 +1,7 @@
 # Agentic AI IAM/GRC Portfolio
 
+![Agentic AI IAM/GRC Portfolio Hero](assets/agentic-ai-portfolio-hero.svg)
+
 ## Hiring Manager TL;DR
 
 This portfolio demonstrates how Agentic AI can support IAM, RBAC validation, GRC control review, audit evidence readiness, and access governance while maintaining human approval and compliance oversight.
@@ -23,6 +25,8 @@ What this portfolio proves:
 - I understand human-in-the-loop controls for AI-assisted security workflows.
 - I can translate security workflows into audit-ready documentation hiring teams can review quickly.
 
+![Skills Overview](assets/skills-overview.svg)
+
 ## About This Portfolio
 
 This portfolio demonstrates how Agentic AI workflows can support IAM, RBAC validation, GRC control testing, audit evidence review, and access governance.
@@ -39,6 +43,8 @@ The projects in this repository combine Security QA, Business Analysis, IAM conc
 - Agentic AI Security
 
 ## Portfolio Projects
+
+![Portfolio Roadmap](assets/portfolio-roadmap.svg)
 
 1. [IAM/RBAC Access Review Agent](01-iam-rbac-access-review-agent/README.md)
 2. [SoD Conflict Detection Agent](02-sod-conflict-detection-agent/README.md)
