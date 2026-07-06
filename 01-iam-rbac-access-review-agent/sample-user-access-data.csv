@@ -1,0 +1,13 @@
+user_id,user_name,department,role,employment_status,current_access,manager,review_period
+U1001,Alicia Reed,Customer Operations,Customer Support Specialist,Active,CRM_VIEW;TICKET_CREATE;TICKET_UPDATE,Jordan Miles,Q3-2026
+U1002,Marcus Hill,Customer Operations,Customer Support Specialist,Active,CRM_VIEW;TICKET_CREATE;TICKET_UPDATE;FINANCE_APPROVE,Jordan Miles,Q3-2026
+U1003,Danielle King,Finance,Finance Analyst,Active,INVOICE_VIEW;PAYMENT_RECONCILE;VENDOR_VIEW,Patricia Moore,Q3-2026
+U1004,Sean Brooks,Finance,Finance Analyst,Active,INVOICE_VIEW;PAYMENT_RECONCILE;VENDOR_VIEW;PAYMENT_APPROVE,Patricia Moore,Q3-2026
+U1005,Kimberly Stone,Human Resources,HR Specialist,Active,EMPLOYEE_VIEW;ONBOARDING_UPDATE,Raymond Carter,Q3-2026
+U1006,Trevor James,Information Security,IAM Analyst,Active,ACCESS_REVIEW;USER_ACCESS_VIEW;ROLE_ASSIGNMENT_REVIEW;USER_ADMIN_LIMITED,Nina Patel,Q3-2026
+U1007,Monica Lewis,IT Operations,System Administrator,Terminated,USER_ADMIN;SYSTEM_CONFIG;LOG_VIEW,Nina Patel,Q3-2026
+U1008,Brian Foster,Audit,Auditor,Active,ACCESS_REVIEW;REPORT_VIEW;EVIDENCE_VIEW,Elena Scott,Q3-2026
+U1009,Jasmine Carter,Customer Operations,Customer Support Manager,Active,CRM_VIEW;TICKET_CREATE;TICKET_UPDATE;TICKET_ASSIGN;TEAM_REPORT_VIEW,Jordan Miles,Q3-2026
+U1010,David Nguyen,Finance,Finance Manager,Active,INVOICE_VIEW;PAYMENT_RECONCILE;VENDOR_VIEW;PAYMENT_APPROVE;REPORT_EXPORT;USER_ADMIN,Patricia Moore,Q3-2026
+U1011,Erica Johnson,Human Resources,Finance Analyst,Active,INVOICE_VIEW;PAYMENT_RECONCILE;VENDOR_VIEW,Raymond Carter,Q3-2026
+U1012,Samuel Green,Audit,Auditor,Active,ACCESS_REVIEW;REPORT_VIEW,Elena Scott,Q3-2026
