@@ -1,0 +1,13 @@
+user_id,user_name,department,role,employment_status,current_permissions,manager,review_period
+S2001,Tamara Cole,Finance,AP Specialist,Active,VENDOR_VIEW;INVOICE_CREATE;PAYMENT_RECONCILE,Monica James,Q3-2026
+S2002,Derrick Wells,Finance,AP Manager,Active,VENDOR_CREATE;PAYMENT_APPROVE;REPORT_EXPORT,Monica James,Q3-2026
+S2003,Olivia Grant,Finance,Invoice Processor,Active,INVOICE_CREATE;INVOICE_APPROVE,Rachel Kim,Q3-2026
+S2004,Kevin Morris,Information Security,IAM Analyst,Active,USER_ADMIN;ROLE_ASSIGNMENT_APPROVE;ACCESS_REVIEW,Nina Patel,Q3-2026
+S2005,Sabrina Holt,Payroll,Payroll Specialist,Active,PAYROLL_UPDATE;EMPLOYEE_VIEW,Carmen Lewis,Q3-2026
+S2006,Andre Price,Payroll,Payroll Manager,Active,PAYROLL_UPDATE;PAYROLL_APPROVE;REPORT_EXPORT,Carmen Lewis,Q3-2026
+S2007,Heather Young,Human Resources,HR Specialist,Active,OFFBOARDING_UPDATE;EMPLOYEE_VIEW,Raymond Carter,Q3-2026
+S2008,Malik Turner,Human Resources,HRIS Admin,Active,OFFBOARDING_UPDATE;USER_ADMIN;EMPLOYEE_VIEW,Raymond Carter,Q3-2026
+S2009,Elaine Brooks,Audit,Audit Analyst,Active,EVIDENCE_UPLOAD;REPORT_VIEW,Elena Scott,Q3-2026
+S2010,Franklin Scott,Audit,Audit Manager,Active,EVIDENCE_UPLOAD;EVIDENCE_APPROVE;ACCESS_EXCEPTION_APPROVE,Elena Scott,Q3-2026
+S2011,Natalie Ford,IT Operations,System Administrator,Active,SYSTEM_CONFIG;LOG_VIEW;LOG_DELETE,Nina Patel,Q3-2026
+S2012,Grace Miller,Information Security,GRC Analyst,Active,ACCESS_REVIEW;ACCESS_EXCEPTION_APPROVE;REPORT_EXPORT,Nina Patel,Q3-2026
